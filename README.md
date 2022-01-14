@@ -1,2 +1,0 @@
-# Learner License Helper
- 
