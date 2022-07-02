@@ -1,7 +1,7 @@
 <html>
     <head>
         <title> SIGN UP | LEARNER'S LICENSE HELPER </title>
-        <link rel="stylesheet" href="s../css/ignup.css">
+        <link rel="stylesheet" href="../css/signup.css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Rampart+One&display=swap" rel="stylesheet">
